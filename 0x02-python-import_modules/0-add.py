@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 from add_0 import add
 
-m = 1
-n = 2
+a = 1
+b = 2
 
-print("{0} = {1} = {2}".format(m, n, add(m, n)))
+print("{0} = {1} = {2}".format(a, b, add(a, b)))
